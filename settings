@@ -1,0 +1,6 @@
+export HOSTNAME="idkWhatImDoing"
+export USERNAME="shuhala"
+
+export TIMEZONE="America/New_York"
+export LANGUAGE="en_US.UTF-8"
+export DOTFILES="https://github.com/Shuhala/dotfiles.git"
